@@ -1,2 +1,4 @@
-![QR Code](https://chart.googleapis.com/chart?chs=300x300&cht=qr&chl=https://github.com/Harisankars10/Web-Programming)
+![QR Code](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://github.com/Harisankars10/Web-Programming)
+
+
 
